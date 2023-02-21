@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">QuantumDemo</string>
+    <string-array name="courntry_code">
+        <item> +91</item>
+        <item> +1</item>
+        <item> +977</item>
+        <item> +11</item>
+        <item> +242</item>
+    </string-array>
+
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGNUP</string>
+    <string name="signintoyour">SignIn to your</string>
+    <string name="account">Account</string>
+    <string name="email">Email</string>
+    <string name="emailhint">email</string>
+    <string name="password">Password</string>
+    <string name="passwordhint">password</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="loginwith">LogIn with</string>
+    <string name="donthaveanaccount">Don\'t have an account? </string>
+    <string name="registernow">Register Now</string>
+    <string name="social">Social</string>
+    <string name="x">X</string>
+
+    <string name="createan">Create an</string>
+    <string name="contactingo">Contact Info</string>
+    <string name="iagreewith">I agree with</string>
+    <string name="termsandcondition">terms &amp; condition</string>
+    <string name="alreadyhaveanaccount">Already have an account?</string>
+    <string name="signin">Sign In!</string>
+    <string name="register">REGISTER</string>
+    <string name="name">Name</string>
+    <string name="namehint">name</string>
+    <string name="phone">phone</string>
+    <string name="signout">Signout</string>
+</resources>

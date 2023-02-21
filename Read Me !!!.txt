@@ -1,0 +1,24 @@
+Hi! I've created the Assigned task i.e application named "QuantumDemo". 
+
+The major framework and libraries used are:
+
+1)  Firebase :         User Authentication -> Whenever the user register into the app, their data i.e user and password 
+                       is stored into the firebase. 
+                       I've provided the functionality to login through the Email and Password or Google.
+
+2)  Retrofit:          Retrofit is used to perform HTTP request to the server. We can perform variety of operation like fetching
+                       data and storing data into the server through the use of API.
+
+3) Glide :             Glide is basically used to load and process images from various  sources.
+                       In our case, it is used to create image via the image link provided within json file.
+
+4) Recycler view:      Recycler View is basically used to recycle the views so that we donot have to create and load views each time.
+                       Each individual element in the list is defined by a view holder object. When the view holder is created, 
+                       it doesn't have any data associated with it. After the view holder is created, the RecyclerView binds it to its data.
+                       The RecyclerView requests views, and binds the views to their data, by calling methods in the adapter.
+
+
+
+Note: I would have use Jetpack architecture component along with Data binding, View Binding and but due to the shortage of time provided
+to complete the task, i didn't got enough time to think and design the application. If some extra time is provided i'ld use the better frameworks
+and libraries along with navigation components. 
